@@ -324,7 +324,7 @@ body:not([class*=elementor-page-]) .site-main {
     .site-header .header-inner,
     .site-header:not(.dynamic-header),
     body:not([class*=elementor-page-]) .site-main {
-        max-width: 1140px
+        max-width: 2040px
     }
     .site-footer.footer-full-width,
     .site-header.header-full-width {
